@@ -32,7 +32,8 @@ This project demonstrates API integration, global state management, routing, and
 
 1. Clone the repository
 
-git clone <your-github-link>
+git clone https://github.com/Ganga-sharma106/User-Dashboard.git
+
 
 2. Install dependencies
 
