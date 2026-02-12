@@ -51,17 +51,14 @@ npm run dev
 
 ##  Screenshots
 
-![Dashboard](./screenshots/dashboard.png)
-
-![Create User](./screenshots/create-user.png)
-
-![Search](./screenshots/search.png)
-
-![user-details](./screenshots/user-details.png)
+![Dashboard](src/screenshots/dashboard.png)
+![Create User](src/screenshots/create-user.png)
+![Search](src/screenshots/search.png)
+![User Details](src/screenshots/user-details.png)
 
 ---
 
 ## Author
 
 Ganga Sharma  
-MCA Student | React Developer
+Frontend Developer
